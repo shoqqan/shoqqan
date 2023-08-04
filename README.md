@@ -23,4 +23,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p
+<p align="left"> <a href="https://www.linkedin.com/in/shoqqan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://t.me/shoqqan" target="_blank" rel="noreferrer"><img src="https://github.com/shoqqan/shoqqan/assets/108088790/554055a8-535a-4ffa-80a7-daa67ef679ab" width="32" height="32" /></a> </p
+
+
