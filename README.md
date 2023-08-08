@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🌍  I'm based in Almaty, Kazakhstan
   
--  🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://shokan-tatayev.up.railway.app/'>Portfolio</a>
+-  🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://shokan-tatayev.vercel.app/'>Portfolio</a>
 
 - 🌱 I’m a confident developer working with **React, Vue, Redux/Redux-Toolkit, Vuex, JS, TS, Node.JS, Axios, SCSS, CSS3, HTML5.**
 
