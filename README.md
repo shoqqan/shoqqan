@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 -  🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://shokan-tatayev.vercel.app/'>Portfolio</a>
 
-- 🌱 I’m a confident developer working with **React, Vue, Redux/Redux-Toolkit, Vuex, JS, TS, Node.JS, Axios, SCSS, CSS3, HTML5.**
+- 🌱 I’m a confident developer working with **Angular, RxJs, React, Redux/Redux-Toolkit, JS, TS, Node.JS, Axios, SCSS, CSS3, HTML5.**
 
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
