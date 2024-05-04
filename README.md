@@ -16,7 +16,7 @@
  
 - 🌍  I'm based in Almaty, Kazakhstan
 - 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://shokan-tatayev.vercel.app/'>Portfolio</a>
-- 🌱 I’m a confident developer working with **Angular, RxJs, React, Redux/Redux-Toolkit, JS, TS, Node.JS, Axios, SCSS, CSS3, HTML5.**
+- 🌱 I’m a confident developer working with **Angular** and **React**
 - 🤝  I'm open to collaborating on interesting projects as a developer
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
