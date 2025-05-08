@@ -15,7 +15,6 @@
   </a>   
  
 - 🌍  I'm based in Almaty, Kazakhstan
-- 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://shokan-tatayev.vercel.app/'>Portfolio</a>
 - 🌱 I’m a confident developer working with **Angular** and **React**
 - 🤝  I'm open to collaborating on interesting projects as a developer
 
